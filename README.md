@@ -1,4 +1,4 @@
-# This is my EPIC website's BEGINNING!
+# This is a test for PixiJS
 
 yeah, we're gonna get pretty crazy with this one...
 

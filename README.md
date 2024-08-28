@@ -1,9 +1,7 @@
-# This is a test for PixiJS
+# This is a test for PixiJS to display animated sprites on a web page.
 
-yeah, we're gonna get pretty crazy with this one...
+The waving guy and the house behind him are separate sprites on a sheet.
 
-### TO-DO List:
+The site can be viewed here: https://shanepack.github.io/website-house/index.html
 
-- Center the application / up-res the house sprite              (Might be best to set the background to white and make the house an animatedSprite seperate from the background.)
-- Fill the application on the entire window, scaling using:     (app.renderer.resize(window.innerWidth, window.innerHeight);)
-- Create sprites for individual buttons around the house        (About Me, Resume, Projects)
+Note that it is not set up to display properly outside of 16:9 displays.
